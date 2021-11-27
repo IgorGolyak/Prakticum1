@@ -1,0 +1,10 @@
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.csproj.AssemblyReference.cache
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.Form1.resources
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.Properties.Resources.resources
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.csproj.GenerateResource.cache
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\bin\Debug\Prakticum1.exe.config
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\bin\Debug\Prakticum1.exe
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\bin\Debug\Prakticum1.pdb
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.exe
+C:\Users\golya\source\repos\Prakticum1\Prakticum1\obj\Debug\Prakticum1.pdb
